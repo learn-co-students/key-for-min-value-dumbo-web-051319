@@ -1,3 +1,4 @@
+
 describe "smallest hash value" do
 
   it "does not call the `#keys` method" do
